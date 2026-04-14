@@ -1,0 +1,4 @@
+2026-03-13T19:46:16 ===> "F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstchip.dat"
+2026-03-13T19:46:16 ===> "F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstxnet.dat"
+2026-03-13T19:46:16 ===> "F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstxprt.dat"
+2026-03-13T19:46:16 ===> "F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstdmlmodels.dat"

@@ -1,0 +1,425 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Wed Mar 11 08:38:52 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/HI3535_NVR_pcb.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PAD180CIR130D being dumped.
+
+  PAD40_50OB30D being dumped.
+
+  D79X138 being dumped.
+
+  PAD135CIR135U being dumped.
+
+  PAD55_80OB32D being dumped.
+
+  CCIR220 being dumped.
+
+  PAD24CIR24U-F being dumped.
+
+  PAD83AA being dumped.
+
+  PAD84AA being dumped.
+
+  PAD5AAA being dumped.
+
+  PAD6AAA being dumped.
+
+  SMD08X2 being dumped.
+
+  VIA8-BGA-FULL being dumped.
+
+  ID-COMP being dumped.
+
+  PAD20X40 being dumped.
+
+  RE28_90X20D-PA being dumped.
+
+  PAD25_32CIR12D being dumped.
+
+  PAD101_1 being dumped.
+
+  PAD52X80 being dumped.
+
+  PAD15AAA being dumped.
+
+  OB60_90X36_68D being dumped.
+
+  REC38X31 being dumped.
+
+  BALL24P0 being dumped.
+
+  SMD20S26PSH_L being dumped.
+
+  SMD11_21 being dumped.
+
+  SMD18X23 being dumped.
+
+  SMD30_32 being dumped.
+
+  SMD40_50 being dumped.
+
+  SMD20S26PSH_R being dumped.
+
+  SMD44_20 being dumped.
+
+  SMD10_65 being dumped.
+
+  SMD25_50 being dumped.
+
+  VIA8-BGA being dumped.
+
+  SMD20_82 being dumped.
+
+  SMD25_70 being dumped.
+
+  SMD18X39 being dumped.
+
+  SMD28_32 being dumped.
+
+  SMD33_45 being dumped.
+
+  SMD50_55 being dumped.
+
+  SMD37_50 being dumped.
+
+  SMD19_20PSH_L being dumped.
+
+  SMD39_50 being dumped.
+
+  SMD51_65 being dumped.
+
+  SMD90_90 being dumped.
+
+  SMD25_75 being dumped.
+
+  R1P3X4P5 being dumped.
+
+  SMD25_78 being dumped.
+
+  SMD19_20PSH_R being dumped.
+
+  SMD68_90 being dumped.
+
+  ID-BOARD being dumped.
+
+  PAD60X100 being dumped.
+
+  PAD196X90 being dumped.
+
+  SQUARE60 being dumped.
+
+  PAD87X138 being dumped.
+
+  SQUARE71 being dumped.
+
+  SMD10_106 being dumped.
+
+  SQUARE55 being dumped.
+
+  SMD45_140 being dumped.
+
+  SMD100_95 being dumped.
+
+  SMD190_60 being dumped.
+
+  C79 being dumped.
+
+  PAD08_16A being dumped.
+
+  VIA10-GEN being dumped.
+
+  PAD100X200 being dumped.
+
+  OB60_130X36_105D being dumped.
+
+  SMD120_200 being dumped.
+
+  SQUARE118 being dumped.
+
+  SMD136_101 being dumped.
+
+  DIPOBLONG138X87 being dumped.
+
+  SMD9_32OB being dumped.
+
+  DIPOBLONG89X139 being dumped.
+
+  SMD226_226 being dumped.
+
+  OB47_71X31_55D-P being dumped.
+
+  OB47_99X31_83D-P being dumped.
+
+  SMD20_20P0 being dumped.
+
+  PAD45SQ30D being dumped.
+
+  PAD60SQ45D being dumped.
+
+  PAD70SQ36D being dumped.
+
+  PAD55SQ36D being dumped.
+
+  PAD1 being dumped.
+
+  PAD3 being dumped.
+
+  SMD10_40OB being dumped.
+
+  SMD40_10OB being dumped.
+
+  SMD10_32OB being dumped.
+
+  SMD14_32OB being dumped.
+
+  PAD45CIR30D being dumped.
+
+  PAD54CIR40D being dumped.
+
+  PAD50CIR36D being dumped.
+
+  PAD60CIR45D being dumped.
+
+  PAD70CIR36D being dumped.
+
+  PAD11 being dumped.
+
+  PAD90CIR55D being dumped.
+
+  PAD55CIR36D being dumped.
+
+  PAD40 being dumped.
+
+  PAD65CIR36D being dumped.
+
+  PAD23 being dumped.
+
+  PAD41 being dumped.
+
+  PAD24 being dumped.
+
+  PAD42 being dumped.
+
+  PAD26 being dumped.
+
+  0P3X2 being dumped.
+
+  PAD80 being dumped.
+
+  PAD54 being dumped.
+
+  1P3X2 being dumped.
+
+  PAD85CIR65D being dumped.
+
+  PAD55 being dumped.
+
+  PAD74 being dumped.
+
+  PAD75 being dumped.
+
+  PAD39 being dumped.
+
+  PAD93 being dumped.
+
+  PAD85 being dumped.
+
+  PAD67 being dumped.
+
+  PAD8A being dumped.
+
+  PAD9A being dumped.
+
+  PAD50_60B40D being dumped.
+
+  OBLONG68X72 being dumped.
+
+  PAD120CIR90D being dumped.
+
+  VIA8-BGA-FULL-NEW being dumped.
+
+  PAD10A being dumped.
+
+  PAD60A being dumped.
+
+  PAD61A being dumped.
+
+  PAD62A being dumped.
+
+  BALL14 being dumped.
+
+  PAD42CIR26PD being dumped.
+
+  CCIR71 being dumped.
+
+  SHAPE20_20-Y being dumped.
+
+  SHAPE20_20-Z being dumped.
+
+  CCIR55 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  sh20q_lno_t being dumped.
+
+  sh20q_rno_t being dumped.
+
+  sh19_20lno_t being dumped.
+
+  sh19_20rno_t being dumped.
+
+  shape20x20-y being dumped.
+
+  shape20x20-z being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  hsc0402 being dumped.
+
+  con2_9 being dumped.
+
+  sl0805b being dumped.
+
+  cn22x05 being dumped.
+
+  pbga563-32-2828 being dumped.
+
+  stc3528 being dumped.
+
+  sot23-6 being dumped.
+
+  cmd6-125 being dumped.
+
+  cmd4-254 being dumped.
+
+  vga_fm being dumped.
+
+  cmd6-254 being dumped.
+
+  sx2-1205 being dumped.
+
+  buzzer being dumped.
+
+  spl1212c being dumped.
+
+  bat-10mm being dumped.
+
+  l4 being dumped.
+
+  l6 being dumped.
+
+  qfn64-050-0909lh being dumped.
+
+  pow-1aaa being dumped.
+
+  tp24-smd being dumped.
+
+  id-board being dumped.
+
+  srn8-0804 being dumped.
+
+  xtal2-100 being dumped.
+
+  dip_c_10 being dumped.
+
+  capr_1_2 being dumped.
+
+  sd0805-led being dumped.
+
+  mtg being dumped.
+
+  mj8-srlfy being dumped.
+
+  bnc2 being dumped.
+
+  c0402 being dumped.
+
+  c1206 being dumped.
+
+  c0603 being dumped.
+
+  con4-9090-4v-h10_2 being dumped.
+
+  c0805 being dumped.
+
+  con8-9090-4v-h10_2 being dumped.
+
+  l1206 being dumped.
+
+  v1_0 being dumped.
+
+  r0402 being dumped.
+
+  l0805 being dumped.
+
+  r0603 being dumped.
+
+  tcon-67491_molex_sata being dumped.
+
+  av-01 being dumped.
+
+  sop8-50-157h being dumped.
+
+  usb-4 being dumped.
+
+  so8-p being dumped.
+
+  sot23 being dumped.
+
+  sc0402 being dumped.
+
+  sc0603 being dumped.
+
+  sc1206 being dumped.
+
+  sc0805 being dumped.
+
+  soic8 being dumped.
+
+  in4148 being dumped.
+
+  sr0402 being dumped.
+
+  stfm24-39-630 being dumped.
+
+  d_5mm being dumped.
+
+  bga96-32-1609g being dumped.
+
+  hdmi_rx_con_dip being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  bar50_10 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:              128
+Number of package symbols dumped:         57
+Number of mechanical symbols dumped:       1
+Number of shape symbols dumped:            6
+
+Total number of symbols dumped:           64
+*****************************************************
+

@@ -1,0 +1,108 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : HI3535_NVR_pcb.brd                            )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Mar 13 19:46:16 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  Yes
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro'
+Design Directory:            'F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO'
+Old design name:             'F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/HI3535_NVR_pcb.brd'
+New design name:             'F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/HI3535_NVR_pcb.brd'
+
+CmdLine: netrev -$ -i F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro -x -u -t -y 1 -h -z -q netrev_constraint_report.xml F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/#Taaaaak22780.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstchip.dat 
+   Finished reading F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstchip.dat (00:00:00.04)
+Starting to read F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstxprt.dat 
+   Finished reading F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstxprt.dat (00:00:00.01)
+Starting to read F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstxnet.dat 
+   Finished reading F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/allegro/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SC0402-BGA-A' used by RefDes C426 for device 'C_C0402_100NF_(T:SC0402;B:SC0402,SC0402-BGA,SC0402-BGA-A)' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or 
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SC0402-BGA-A' used by RefDes C100 for device 'C_SC0402_100NF_(T:SC0402;B:SC0402,SC0402-BGA,SC0402-BGA-A)' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SR0402-BGA' used by RefDes R102 for device 'R_SR0402_1K_(T:SR0402;B:SR0402,SR0402-BGA)' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to m
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SR0402-BGA' used by RefDes R72 for device 'R_SR0402_240_(T:SR0402;B:SR0402,SR0402-BGA)' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to m
+
+------ Library Paths ------
+MODULEPATH =  . 
+           f:/ee/eda/cadence_eda/cadence 24.1/share/local/pcb/modules 
+
+PSMPATH =  F:/ee/EDA/ncpcb/Advanced_prj-1/lib 
+           F:/ee/EDA/ncpcb/demo2/LIB 
+
+PADPATH =  F:/ee/EDA/ncpcb/Advanced_prj-1/lib 
+           F:/ee/EDA/ncpcb/demo2/LIB 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 13 19:46:16 2026
+   DESIGN NAME : 'HI3535_NVR_DSN'
+   PACKAGING ON Sep  4 2024 20:54:11
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  4 warnings detected
+
+cpu time      0:00:59
+elapsed time  0:00:00
+

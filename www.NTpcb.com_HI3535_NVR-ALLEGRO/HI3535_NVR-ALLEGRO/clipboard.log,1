@@ -1,0 +1,560 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Clipboard Paste Session                                          )
+(                                                                     )
+(    Drawing          : HI3535_NVR_pcb.brd                            )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Mar 13 19:52:18 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "CVBS"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "AU_IN"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "RJ45"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "VGA"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "HDMI"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "USB"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "USB"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreateText): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste the text - "DCIN"
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+*WARNING* (axlMUIsLayerSupported): No match for subclass name - "BOARD GEOMETRY/DXF"
+*WARNING* (axlDBCreatePath): No match for subclass name - "BOARD GEOMETRY/DXF"
+Unable to paste object of type "path" on layer BOARD GEOMETRY/DXF.
+
+
+Clipboard Paste Session Completed at Mar 13 19:52:24 2026

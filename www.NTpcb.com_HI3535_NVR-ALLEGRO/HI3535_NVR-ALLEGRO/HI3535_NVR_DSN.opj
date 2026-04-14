@@ -1,0 +1,156 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[03/13/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\hi3535_nvr_dsn.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "93914")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "f:\ee\eda\ncpcb\advanced_prj-1\www.ntpcb.com_hi3535_nvr-allegro\hi3535_nvr-allegro\hi3535_nvr_dsn.dsn")
+      (Path "Design Resources"
+         "f:\ee\eda\ncpcb\advanced_prj-1\www.ntpcb.com_hi3535_nvr-allegro\hi3535_nvr-allegro\hi3535_nvr_dsn.dsn"
+         "HI3535DMEB")
+      (Select "Design Resources"
+         "f:\ee\eda\ncpcb\advanced_prj-1\www.ntpcb.com_hi3535_nvr-allegro\hi3535_nvr-allegro\hi3535_nvr_dsn.dsn"
+         "HI3535DMEB" "17.ASTER"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 325 0 679"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "-87 -5")
+        (Zoom "53")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "05.POWER & VSS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "06.Hi3535 DDR3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "-76 -2")
+        (Zoom "53")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "09.SYSTEM & FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "18.ETH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "-76 -2")
+        (Zoom "53")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "10.POWER ON SETTING PINS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "-9 -39")
+        (Zoom "47")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "11.INTERFACE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "-31 -2")
+        (Zoom "53")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "12.USB & SATA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "13.DISPLAY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "-60 -5")
+        (Zoom "63")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "15.VO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1165 28 701")
+        (Scroll "182 0")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path
+         "F:\EE\EDA\NCPCB\ADVANCED_PRJ-1\WWW.NTPCB.COM_HI3535_NVR-ALLEGRO\HI3535_NVR-ALLEGRO\HI3535_NVR_DSN.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "17.ASTER"))))

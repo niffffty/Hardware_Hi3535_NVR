@@ -1,0 +1,2357 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+done.
+WARNING: DXF extents are too large to for Allegro.
+  Continuing at maximum db extents.
+  DXF entities outside these extents will be lost.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE LIST N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Aligned.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Alternate.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Alignment.Multi-Row.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Direction.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE LIST N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Inside.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Outside.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Both Sides.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.ViaSpacing.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE LIST N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Use Grid.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST 1 Trace.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST 2 Trace.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Sharing.Pin.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Sharing.SMD.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Sharing.Via.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Sharing.Trace.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Nets.Plane.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Nets.Signal.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Nets.UnusedPins.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Length.Unlimited.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.Length.Maximum.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE QUANTITY.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: QUANTITY Size/Dimension.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ABBR.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: UNIT.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: MIN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: MAX 2000.00mil.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.AlignmentBGA.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE LIST N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Diagonal.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Quadrant.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST X-pattern.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.DirectionBGA.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE LIST N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST 45.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST 135.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST 225.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST 315.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Clockwise.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Counterclockwise.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.Fanout.DirectionBGAstaggered.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE LIST N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Horizontal.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: LIST Vertical.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.PadEntry.Side.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.PadEntry.Corner.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.PadEntry.AnyAngle.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.PadEntry.Soft.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.ViaAtSMD.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.ViaAtSMD.FitInside.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.ViaAtSMD.Center.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PCB.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: INHERITANCE  PART DECAL.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ECO_REGISTRATION N.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: SYSTEM Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: HIDDEN Y.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ATTRIBUTE Rules.ViaAtSMD.Ends.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: TYPE BOOLEAN.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: ABBR V.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+
+ERROR: ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR: Failed to add text: READONLY Y.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: Ignoring entity outside of board extents.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+Layer conversion file: F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/DXF_l.cnv
+DXF file: F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/DXF.dxf
+BRD file: F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/#Taaaaak23460.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 3
+dxf2a complete.

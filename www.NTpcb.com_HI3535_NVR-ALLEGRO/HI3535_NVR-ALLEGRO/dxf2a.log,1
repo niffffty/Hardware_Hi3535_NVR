@@ -1,0 +1,19 @@
+Reading Layer Conversion File 
+Error: Illegal class encountered in layer conversion file.
+  Cannot import DXF data into class PIN...mappings ignored.
+Reading DXF file...
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+NOTE: Replacing illegal character $ with X in SMOOTH_5$905511811.
+done.
+Layer conversion file: f:/ee/eda/cadence_eda/cadence 24.1/share/pcb/text/dlibx2iff.cnv
+DXF file: F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/DXF.dxf
+BRD file: F:/ee/EDA/ncpcb/Advanced_prj-1/www.NTpcb.com_HI3535_NVR-ALLEGRO/HI3535_NVR-ALLEGRO/#Taaaaeq03312.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILS
+Design units: MILS
+Design precision: 4
+dxf2a complete.
